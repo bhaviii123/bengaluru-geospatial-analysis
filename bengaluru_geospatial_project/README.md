@@ -25,3 +25,5 @@ It extracts and visualizes key public infrastructure locations and compares **Ur
   - Urban vs Rural comparison
 
 ## 📁 Project Structure
+output Map link : https://bhaviii123.github.io/bengaluru-geospatial-analysis/bengaluru_urban_vs_rural_map.html
+
